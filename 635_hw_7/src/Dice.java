@@ -1,4 +1,5 @@
-
+// another trivial change, after moving in repo by other user
+// trivial change to Dice, but in wrong source folder
 public class Dice
 {
 	private int[] die1Rolls;
